@@ -1,4 +1,4 @@
-👋 Hello! I'm Chandresh Lakhara
+**👋 Hello! I'm Chandresh Lakhara
 I'm an aspiring developer with a growing passion for software development and continuous learning.
 
 💻 Current Focus:
@@ -19,3 +19,4 @@ Always open to networking, mentorship, and team projects
 You can reach me at: chandreshmtabu123@gmail.com
 
 🌟 I believe in learning by doing, and I’m excited to grow in this amazing tech journey.
+**

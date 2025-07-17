@@ -1,22 +1,25 @@
-**👋 Hello! I'm Chandresh Lakhara
-I'm an aspiring developer with a growing passion for software development and continuous learning.
+👋 Hi, I’m Chandresh Lakhara
+I'm an enthusiastic and motivated aspiring software developer, passionate about building meaningful technology and constantly pushing my limits through learning and collaboration.
 
-💻 Current Focus:
+🚀 What I’m Currently Working On
+📘 Deepening my understanding of .NET — from core concepts to building real-world backend solutions
 
-Learning .NET for backend development
+🐍 Exploring Python for scripting, automation, and potentially diving into data analysis
 
-Exploring the world of Python for scripting, automation, and data manipulation
+🌐 Learning the fundamentals of web development, including HTML, CSS, and JavaScript, to create full-stack applications in the near future
 
-Gaining hands-on experience with the basics of web development (HTML, CSS, JavaScript)
+🤝 What I’m Looking For
+I’m actively seeking opportunities to:
 
-🚀 What I'm Looking For:
-I'm eager to collaborate on real-world projects that challenge me to apply what I’ve learned and expand my skill set. Whether it’s contributing to open-source, building apps, or solving problems together — I’m all in!
+Collaborate on open-source or personal projects
 
-🤝 Let’s Connect:
+Join forces with developers to learn, build, and grow together
 
-Always open to networking, mentorship, and team projects
+Contribute to codebases where I can make a meaningful impact while gaining practical experience
 
-You can reach me at: chandreshmtabu123@gmail.com
+🧠 What Drives Me
+I believe in the power of consistency, curiosity, and community. I’m not just learning to code — I’m learning to think like a developer, solve problems creatively, and grow with every challenge I take on.
 
-🌟 I believe in learning by doing, and I’m excited to grow in this amazing tech journey.
-**
+📫 Let’s Connect!
+I'm always open to connecting with fellow learners, mentors, or collaborators.
+📩 You can reach me at: chandreshmtabu123@gmail.com

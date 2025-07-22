@@ -49,14 +49,14 @@
 
 ## 📫 Let's Connect
 
-- 💼 [Twitter](#) *(https://x.com/chandreshmtabu1?s=09)*  
-- 🎨 [Behance / Dribbble](#) *(https://www.behance.net/CHANDRESHLAKHARA)*  
-- 📧 Email: [yourname@example.com](mailto:yourname@example.com)
+- 💼 Twitter: (https://x.com/chandreshmtabu1?s=09)  
+- 🎨 Behance: (https://www.behance.net/CHANDRESHLAKHARA)  
+- 📧 Email: (chandreshmtabu123@gmail.com)
 
 
-<a href="https://youtube.com/YOUR_CHANNEL_LINK" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
+<a href="https://www.youtube.com/@Chandresh_18" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
   <img src="https://img.icons8.com/ios-filled/30/ff0000/youtube-play.png" alt="YouTube" style="margin-right: 6px;" />
-  <span style="color: #FF0000; font-weight: bold; position: relative; top: -4px;">UX Graphics</span>
+  <span style="color: #FF0000; font-weight: bold; position: relative; top: -100px;">-Ux Graphics</span>
 </a>
 
 

@@ -54,7 +54,7 @@
 - 📧 Email: [yourname@example.com](mailto:yourname@example.com)
 <a href="https://youtube.com/YOUR_CHANNEL_LINK" target="_blank" style="display: inline-flex; flex-direction: column; align-items: center; text-decoration: none;">
   <img src="https://img.icons8.com/ios-filled/30/ff0000/youtube-play.png" alt="YouTube" />
-  <span style="color: #FF0000; font-weight: bold; margin-bottom: 1px;">UX Graphics</span>
+  <span style="color: #FF0000; font-weight: bold; margin-bottom: -1px;">UX Graphics</span>
 </a>
 
 

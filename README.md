@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Chandresh</h1>
-<h3 align="center">.NET MVC Developer | UI/UX Designer | OS Concept Creator</h3>
+<h3 align="center">Software Developer | UI/UX Designer | OS Concept Creator</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=450&lines=Turning+Ideas+into+Code+%26+Design;Creating+OS+Concepts+with+Passion;Lifelong+Learner+%26+Innovator" alt="Typing SVG" />

@@ -11,7 +11,6 @@
 
 👋 I'm Chandresh, a developer and designer who enjoys building functional and visually captivating software. I specialize in **.NET MVC applications** while also bringing my creativity to life through **graphic design**, especially **operating system UI/UX concepts**.
 
-- 🔭 Currently working on full-stack **.NET MVC** projects  
 - 🌱 Exploring **Python**, **.NET 8**, and basics of **Web Developments**  
 - 🖥 Designing innovative **OS UI concepts** in my free time  
 - 🧩 Love mixing code, creativity, and clean architecture  
@@ -31,13 +30,6 @@
 - Figma | Adobe XD | Photoshop | Illustrator  
 - UI/UX Prototyping | OS Design Concepts | Design Systems
 
----
-
-## ✨ Featured OS Concepts (Coming Soon)
-
-> 💡 I'm working on conceptual operating systems that merge beautiful UI with smooth UX. These include reimagined desktops, control panels, task managers, and futuristic interfaces. Stay tuned for screenshots and interactive prototypes!
-
----
 
 ## 📈 GitHub Stats
 

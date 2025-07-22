@@ -12,7 +12,7 @@
 👋 I'm Chandresh, a developer and designer who enjoys building functional and visually captivating software. I specialize in **.NET MVC applications** while also bringing my creativity to life through **graphic design**, especially **operating system UI/UX concepts**.
 
 - 🔭 Currently working on full-stack **.NET MVC** projects  
-- 🌱 Exploring **Blazor**, **.NET 8**, and modern **UI frameworks**  
+- 🌱 Exploring **Python**, **.NET 8**, and basics of **Web Developments**  
 - 🖥 Designing innovative **OS UI concepts** in my free time  
 - 🧩 Love mixing code, creativity, and clean architecture  
 - 📌 Open to freelance opportunities and creative collaborations  
@@ -22,7 +22,7 @@
 ## 🛠️ Tech & Tools I Use
 
 ### 💻 Languages & Frameworks
-- C# | .NET MVC | ASP.NET Core | HTML | CSS | JavaScript | LINQ
+- C# | .NET MVC | ASP.NET Core | HTML | CSS | JavaScript | SQL
 
 ### 🧰 Tools & Platforms
 - Visual Studio | Git & GitHub | Postman | SQL Server | Entity Framework
@@ -49,10 +49,13 @@
 
 ## 📫 Let's Connect
 
-- 🌐 [Portfolio / Website](#) *(Add your link here)*  
 - 💼 [LinkedIn](#) *(Add your LinkedIn URL)*  
-- 🎨 [Behance / Dribbble](#) *(For OS designs, if any)*  
+- 🎨 [Behance / Dribbble](#) *(https://www.behance.net/CHANDRESHLAKHARA)*  
 - 📧 Email: [yourname@example.com](mailto:yourname@example.com)
+<a href="https://youtube.com/YOUR_CHANNEL_LINK" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/30/ff0000/youtube-play.png" alt="YouTube" />
+</a>
+
 
 ---
 

@@ -53,8 +53,8 @@
 - 🎨 [Behance / Dribbble](#) *(https://www.behance.net/CHANDRESHLAKHARA)*  
 - 📧 Email: [yourname@example.com](mailto:yourname@example.com)
 <a href="https://youtube.com/YOUR_CHANNEL_LINK" target="_blank" style="display: inline-flex; flex-direction: column; align-items: center; text-decoration: none;">
-  <span style="color: #FF0000; font-weight: bold; margin-bottom: 4px;">UX Graphics</span>
   <img src="https://img.icons8.com/ios-filled/30/ff0000/youtube-play.png" alt="YouTube" />
+  <span style="color: #FF0000; font-weight: bold; margin-bottom: 4px;">UX Graphics</span>
 </a>
 
 

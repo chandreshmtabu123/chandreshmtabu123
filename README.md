@@ -49,10 +49,10 @@
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](#) *(Add your LinkedIn URL)*  
+- 💼 [Twitter](#) *(https://x.com/chandreshmtabu1?s=09)*  
 - 🎨 [Behance / Dribbble](#) *(https://www.behance.net/CHANDRESHLAKHARA)*  
 - 📧 Email: [yourname@example.com](mailto:yourname@example.com)
-<a href="https://youtube.com/YOUR_CHANNEL_LINK" target="_blank">
+<a href="https://www.youtube.com/@Chandresh_18" target="_blank">
   <img src="https://img.icons8.com/ios-filled/30/ff0000/youtube-play.png" alt="YouTube" />
 </a>
 

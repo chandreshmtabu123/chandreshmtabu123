@@ -52,10 +52,11 @@
 - 💼 [Twitter](#) *(https://x.com/chandreshmtabu1?s=09)*  
 - 🎨 [Behance / Dribbble](#) *(https://www.behance.net/CHANDRESHLAKHARA)*  
 - 📧 Email: [yourname@example.com](mailto:yourname@example.com)
-<a href="https://youtube.com/YOUR_CHANNEL_LINK" target="_blank" style="display: inline-flex; flex-direction: column; align-items: center; text-decoration: none;">
-  <img src="https://img.icons8.com/ios-filled/30/ff0000/youtube-play.png" alt="YouTube" />
-  <span style="color: #FF0000; font-weight: bold; margin-bottom: -1px;">UX Graphics</span>
+<a href="https://youtube.com/YOUR_CHANNEL_LINK" target="_blank" style="display: inline-flex; flex-direction: row; align-items: flex-start; text-decoration: none;">
+  <img src="https://img.icons8.com/ios-filled/30/ff0000/youtube-play.png" alt="YouTube" style="margin-top: 4px;" />
+  <span style="color: #FF0000; font-weight: bold; margin-left: 6px; font-size: 14px;">UX Graphics</span>
 </a>
+
 
 
 
